@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Mahshid here 👋
 
 <!--
 **artemis79/artemis79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I study Computer Engineering at university of Amirkabir
+- I like Artificial Intelligence as a research domain
+- I'm currently working on an interesting NLP project
