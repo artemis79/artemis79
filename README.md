@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I study Computer Engineering at university of Amirkabir
-- I like Artificial Intelligence as a research domain
-- I'm currently working on an interesting NLP project
